@@ -1,4 +1,4 @@
-# Logistic Regression from Scratch
+# Linear Regression from Scratch
 
 This project implements logistic regression using only **NumPy** and **Pandas** — no scikit-learn. It performs **binary classification** to detect whether a flower is *Iris-setosa* or not, based on the Iris dataset.
 
